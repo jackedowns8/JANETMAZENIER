@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>JANETMAZENIER</title>
+		<meta name="description" content="Blueprint: Slide and Push Menus" />
+		<meta name="keywords" content="sliding menu, pushing menu, navigation, responsive, menu, css, jquery" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/default.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="js/modernizr.custom.js"></script>
+        <script type="text/javascript">
+		  if (screen.width > 1080) {
+			window.location = "http://www.janetmazenier.com/index.html";
+		  }
+		</script>
+	</head>
+	<body class="cbp-spmenu-push">
+		<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+			<h3 align="center">Menu</h3>
+			<a href="index.html">About</a>
+			<a href="current-works-gallery/currentworks.html">Current Works</a>
+			<a href="cv.html">CV</a>
+			<a href="links.html">Links</a>
+            <a href="mailto:mazenierjanet@gmail.com">Email me at: mazenierjanet@gmail.com</a>
+		</nav>
+		<div class="container">
+			<header class="clearfix">
+            <img src="images/aboutOilPainting.jpg" alt="oilpainting" width="100%">
+            	<div align="center">
+				<h1>About</h1>
+                <button id="showLeftPush">MENU</button>
+                </div>
+            </header>
+			<div class="main">
+    <p>Janet Mazenier completed her Bachelor of Fine Arts in 2015 at Whitecliffe College of Art and Design in Auckland, New Zealand.  Janet has exhibited widely in New Zealand and has work held in collections throughout New Zealand, Australia, Wales and Scotland.  Prior to taking up painting full-time, she was a business person who enjoyed leading large programmes of work within the public sector, information technology or telecommunications industries.  Janet continues to take a programme approach to her painting, identifying and investigating the relationship between humans and the architecture of their spaces.</p>
+	<p>As well as the empty spaces and buildings portrayed in her work, she paints glimpses of anonymous people in motion, usually un-posed.  Janet’s practise allows her to look at the world in a very direct and personal way; the process of painting is physical as it reveals the actions and fallibilities of her hand as the artist in its results.  Janet particularly enjoys dealing with the making of the image and things often emerge that weren’t in the original subject.  This process frames a conversation with painting, and therefore how paint can visually represent or mis-represent subject and space in an illusionary way.</p>
+			</div>
+		</div>
+		<!-- Classie - class helper functions by @desandro https://github.com/desandro/classie -->
+		<script src="js/classie.js"></script>
+		<script>
+			var menuLeft = document.getElementById( 'cbp-spmenu-s1' ),
+				menuRight = document.getElementById( 'cbp-spmenu-s2' ),
+				menuTop = document.getElementById( 'cbp-spmenu-s3' ),
+				menuBottom = document.getElementById( 'cbp-spmenu-s4' ),
+				showLeftPush = document.getElementById( 'showLeftPush' ),
+				body = document.body;
+
+			showLeftPush.onclick = function() {
+				classie.toggle( this, 'active' );
+				classie.toggle( body, 'cbp-spmenu-push-toright' );
+				classie.toggle( menuLeft, 'cbp-spmenu-open' );
+				disableOther( 'showLeftPush' );
+			};
+
+			function disableOther( button ) {
+				if( button !== 'showLeftPush' ) {
+					classie.toggle( showLeftPush, 'disabled' );
+				}
+			}
+		</script>
+	</body>
+</html>
