@@ -12,7 +12,7 @@
 	thumbURL="thumbs/1.jpeg"
 	linkURL="images/1.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/1.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/1.jpeg">
     <title><![CDATA[Power it]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on board]]></caption>
   </image>
@@ -20,15 +20,15 @@
 	thumbURL="thumbs/Study_it.jpeg"
 	linkURL="images/Study_it.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/Study_it.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Study_it.jpeg">
     <title><![CDATA[Study it]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
-  <image imageURL="images/Disruptive Innovation.jpg"
-	thumbURL="thumbs/Disruptive Innovation.jpg"
-	linkURL="images/Disruptive Innovation.jpg"
+  <image imageURL="images/FullSizeRender[1].jpg"
+	thumbURL="thumbs/FullSizeRender[1].jpg"
+	linkURL="images/FullSizeRender[1].jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Disruptive Innovation.JPG">
+	sourcePath="/Users/Jack/Desktop/FullSizeRender[1].jpg">
     <title><![CDATA[Connect it]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
@@ -108,7 +108,7 @@
 	thumbURL="thumbs/2.jpeg"
 	linkURL="images/2.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/2.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/2.jpeg">
     <title><![CDATA[Breathing Deep]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
@@ -156,8 +156,16 @@
 	thumbURL="thumbs/Pondering.jpg"
 	linkURL="images/Pondering.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Pondering.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Pondering.jpg">
     <title><![CDATA[Pondering]]></title>
+    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
+  </image>
+  <image imageURL="images/FullSizeRender.jpg"
+	thumbURL="thumbs/FullSizeRender.jpg"
+	linkURL="images/FullSizeRender.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/FullSizeRender.jpg">
+    <title><![CDATA[She Facilitates]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
 </juiceboxgallery>
