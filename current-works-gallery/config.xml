@@ -80,13 +80,13 @@
     <title><![CDATA[Loosening Up]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
-  <image imageURL="images/Singular Focus.jpg"
-	thumbURL="thumbs/Singular Focus.jpg"
-	linkURL="images/Singular Focus.jpg"
+  <image imageURL="images/Singular Focus.jpeg"
+	thumbURL="thumbs/Singular Focus.jpeg"
+	linkURL="images/Singular Focus.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Singular Focus.JPG">
+	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Singular Focus.jpeg">
     <title><![CDATA[Singular Focus]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
+    <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/2.jpeg"
 	thumbURL="thumbs/2.jpeg"
@@ -120,14 +120,6 @@
     <title><![CDATA[Must Haves]]></title>
     <caption><![CDATA[60cm x 40cm, Oil on board]]></caption>
   </image>
-  <image imageURL="images/Shirt 1.jpg"
-	thumbURL="thumbs/Shirt 1.jpg"
-	linkURL="images/Shirt 1.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/Shirt 1.jpg">
-    <title><![CDATA[He Reflects]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
   <image imageURL="images/Deal 1.jpg"
 	thumbURL="thumbs/Deal 1.jpg"
 	linkURL="images/Deal 1.jpg"
@@ -144,20 +136,20 @@
     <title><![CDATA[The Grip]]></title>
     <caption><![CDATA[51 cm x 61 cm, Oil on canvas board]]></caption>
   </image>
-  <image imageURL="images/Pondering.jpg"
-	thumbURL="thumbs/Pondering.jpg"
-	linkURL="images/Pondering.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Pondering.jpg">
-    <title><![CDATA[Pondering]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
   <image imageURL="images/She Facilitates.jpg"
 	thumbURL="thumbs/She Facilitates.jpg"
 	linkURL="images/She Facilitates.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/She Facilitates.jpg">
     <title><![CDATA[She Facilitates]]></title>
+    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
+  </image>
+  <image imageURL="images/She Waits.jpeg"
+	thumbURL="thumbs/She Waits.jpeg"
+	linkURL="images/She Waits.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/She Waits.jpeg">
+    <title><![CDATA[She Waits]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
 </juiceboxgallery>
