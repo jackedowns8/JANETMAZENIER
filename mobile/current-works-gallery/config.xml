@@ -8,11 +8,19 @@
 	resizeOnImport="false"
 
 >
+  <image imageURL="images/InsureIt.jpeg"
+	thumbURL="thumbs/InsureIt.jpeg"
+	linkURL="images/InsureIt.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/InsureIt.jpeg">
+    <title><![CDATA[Insure It]]></title>
+    <caption><![CDATA[1200 cm x 3600 cm, Oil on linen]]></caption>
+  </image>
   <image imageURL="images/Bank It.jpeg"
 	thumbURL="thumbs/Bank It.jpeg"
 	linkURL="images/Bank It.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Bank It.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Bank It.jpeg">
     <title><![CDATA[Bank It]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
@@ -20,7 +28,7 @@
 	thumbURL="thumbs/Advise It.jpeg"
 	linkURL="images/Advise It.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Advise It.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Advise It.jpeg">
     <title><![CDATA[Advise It]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
@@ -28,7 +36,7 @@
 	thumbURL="thumbs/Connect It.jpg"
 	linkURL="images/Connect It.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Connect It.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Connect It.jpg">
     <title><![CDATA[Connect It]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
@@ -60,7 +68,7 @@
 	thumbURL="thumbs/After Hours.jpg"
 	linkURL="images/After Hours.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/After Hours.JPG">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/After Hours.jpg">
     <title><![CDATA[After Hours]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
@@ -68,7 +76,7 @@
 	thumbURL="thumbs/Arming Up.jpg"
 	linkURL="images/Arming Up.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Arming Up.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Arming Up.jpg">
     <title><![CDATA[Arming Up]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
@@ -76,7 +84,7 @@
 	thumbURL="thumbs/Cleaving The Knot.jpg"
 	linkURL="images/Cleaving The Knot.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Cleaving The Knot.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Cleaving The Knot.jpg">
     <title><![CDATA[Loosening Up]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
@@ -84,7 +92,7 @@
 	thumbURL="thumbs/Singular Focus.jpeg"
 	linkURL="images/Singular Focus.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Singular Focus.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Singular Focus.jpeg">
     <title><![CDATA[Singular Focus]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
@@ -100,7 +108,7 @@
 	thumbURL="thumbs/Hard Drive.jpg"
 	linkURL="images/Hard Drive.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Website/current-works-gallery/images/Hard Drive.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Hard Drive.jpg">
     <title><![CDATA[Hard Drive]]></title>
     <caption><![CDATA[60cm x 40cm, Oil on board]]></caption>
   </image>
@@ -108,7 +116,7 @@
 	thumbURL="thumbs/Glasses.jpg"
 	linkURL="images/Glasses.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Glasses.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Glasses.jpg">
     <title><![CDATA[Glasses]]></title>
     <caption><![CDATA[60cm x 40cm, Oil on board]]></caption>
   </image>
@@ -116,7 +124,7 @@
 	thumbURL="thumbs/Must Haves.jpg"
 	linkURL="images/Must Haves.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/Must Haves.JPG">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Must Haves.jpg">
     <title><![CDATA[Must Haves]]></title>
     <caption><![CDATA[60cm x 40cm, Oil on board]]></caption>
   </image>
@@ -140,7 +148,7 @@
 	thumbURL="thumbs/She Facilitates.jpg"
 	linkURL="images/She Facilitates.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/She Facilitates.jpg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/She Facilitates.jpg">
     <title><![CDATA[She Facilitates]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
@@ -148,7 +156,7 @@
 	thumbURL="thumbs/She Waits.jpeg"
 	linkURL="images/She Waits.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet/Janet Current/She Waits.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/She Waits.jpeg">
     <title><![CDATA[She Waits]]></title>
     <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
