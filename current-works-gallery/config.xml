@@ -8,11 +8,11 @@
 	resizeOnImport="false"
 
 >
-  <image imageURL="images/InsureIt.jpeg"
-	thumbURL="thumbs/InsureIt.jpeg"
-	linkURL="images/InsureIt.jpeg"
+  <image imageURL="images/Insure It.jpeg"
+	thumbURL="thumbs/Insure It.jpeg"
+	linkURL="images/Insure It.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/InsureIt.jpeg">
+	sourcePath="/Users/Jack/Desktop/Insure It.jpeg">
     <title><![CDATA[Insure It]]></title>
     <caption><![CDATA[1200 cm x 3600 cm, Oil on linen]]></caption>
   </image>
@@ -62,14 +62,6 @@
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/FullSizeRender.jpg">
     <title><![CDATA[Step On It]]></title>
-    <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/After Hours.jpg"
-	thumbURL="thumbs/After Hours.jpg"
-	linkURL="images/After Hours.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/After Hours.jpg">
-    <title><![CDATA[After Hours]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
   <image imageURL="images/Arming Up.jpg"
@@ -127,22 +119,6 @@
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/Must Haves.jpg">
     <title><![CDATA[Must Haves]]></title>
     <caption><![CDATA[60cm x 40cm, Oil on board]]></caption>
-  </image>
-  <image imageURL="images/Deal 1.jpg"
-	thumbURL="thumbs/Deal 1.jpg"
-	linkURL="images/Deal 1.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/Deal 1.jpg">
-    <title><![CDATA[Attache]]></title>
-    <caption><![CDATA[51 cm x 61 cm, Oil on canvas board]]></caption>
-  </image>
-  <image imageURL="images/The grip copy.jpg"
-	thumbURL="thumbs/The grip copy.jpg"
-	linkURL="images/The grip copy.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/current-works-gallery/images/The grip copy.jpg">
-    <title><![CDATA[The Grip]]></title>
-    <caption><![CDATA[51 cm x 61 cm, Oil on canvas board]]></caption>
   </image>
   <image imageURL="images/She Facilitates.jpg"
 	thumbURL="thumbs/She Facilitates.jpg"
