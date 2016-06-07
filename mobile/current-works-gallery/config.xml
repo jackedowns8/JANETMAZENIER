@@ -8,6 +8,14 @@
 	resizeOnImport="false"
 
 >
+  <image imageURL="images/FullSizeRender.jpg"
+	thumbURL="thumbs/FullSizeRender.jpg"
+	linkURL="images/FullSizeRender.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/FullSizeRender.jpg">
+    <title><![CDATA[North Head Engine Room]]></title>
+    <caption><![CDATA[105 cm x 70 cm, Oil on linen]]></caption>
+  </image>
   <image imageURL="images/Insure It.jpeg"
 	thumbURL="thumbs/Insure It.jpeg"
 	linkURL="images/Insure It.jpeg"
