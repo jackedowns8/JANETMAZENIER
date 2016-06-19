@@ -8,20 +8,12 @@
 	resizeOnImport="false"
 
 >
-  <image imageURL="images/North Head Engine Room.jpg"
-	thumbURL="thumbs/North Head Engine Room.jpg"
-	linkURL="images/North Head Engine Room.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/North Head Engine Room.jpg">
-    <title><![CDATA[North Head Engine Room]]></title>
-    <caption><![CDATA[105 cm x 70 cm, Oil on linen]]></caption>
-  </image>
   <image imageURL="images/Insure It.jpeg"
 	thumbURL="thumbs/Insure It.jpeg"
 	linkURL="images/Insure It.jpeg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Insure It.jpeg">
-    <title><![CDATA[Insure It]]></title>
+    <title><![CDATA[Yellow Enough to Cry]]></title>
     <caption><![CDATA[1200 cm x 3600 cm, Oil on linen]]></caption>
   </image>
   <image imageURL="images/Bank It.jpeg"
@@ -29,7 +21,7 @@
 	linkURL="images/Bank It.jpeg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Bank It.jpeg">
-    <title><![CDATA[Bank It]]></title>
+    <title><![CDATA[Are we moving too Fast]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
   <image imageURL="images/Advise It.jpeg"
@@ -45,7 +37,7 @@
 	linkURL="images/Connect It.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Connect It.jpg">
-    <title><![CDATA[Connect It]]></title>
+    <title><![CDATA[The World goes at LightSpeed now]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
   <image imageURL="images/1.jpeg"
@@ -53,7 +45,7 @@
 	linkURL="images/1.jpeg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/1.jpeg">
-    <title><![CDATA[Power it]]></title>
+    <title><![CDATA[The Power lies Within]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on board]]></caption>
   </image>
   <image imageURL="images/Study_it.jpeg"
@@ -61,7 +53,7 @@
 	linkURL="images/Study_it.jpeg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Study_it.jpeg">
-    <title><![CDATA[Study it]]></title>
+    <title><![CDATA[Fatal fails (sic)]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
   </image>
   <image imageURL="images/Step On It.jpg"
@@ -71,46 +63,6 @@
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/Step On It.jpg">
     <title><![CDATA[Step On It]]></title>
     <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/Arming Up.jpg"
-	thumbURL="thumbs/Arming Up.jpg"
-	linkURL="images/Arming Up.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Arming Up.jpg">
-    <title><![CDATA[Arming Up]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/Cleaving The Knot.jpg"
-	thumbURL="thumbs/Cleaving The Knot.jpg"
-	linkURL="images/Cleaving The Knot.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Cleaving The Knot.jpg">
-    <title><![CDATA[Loosening Up]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/Singular Focus.jpeg"
-	thumbURL="thumbs/Singular Focus.jpeg"
-	linkURL="images/Singular Focus.jpeg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Singular Focus.jpeg">
-    <title><![CDATA[Singular Focus]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/2.jpeg"
-	thumbURL="thumbs/2.jpeg"
-	linkURL="images/2.jpeg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/2.jpeg">
-    <title><![CDATA[Breathing Deep]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/He Reflects.jpeg"
-	thumbURL="thumbs/He Reflects.jpeg"
-	linkURL="images/He Reflects.jpeg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/He Reflects.jpeg">
-    <title><![CDATA[He Reflects]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
   <image imageURL="images/Hard Drive.jpg"
 	thumbURL="thumbs/Hard Drive.jpg"
@@ -135,21 +87,5 @@
 	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Must Haves.jpg">
     <title><![CDATA[Must Haves]]></title>
     <caption><![CDATA[60cm x 40cm, Oil on board]]></caption>
-  </image>
-  <image imageURL="images/She Facilitates.jpg"
-	thumbURL="thumbs/She Facilitates.jpg"
-	linkURL="images/She Facilitates.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/She Facilitates.jpg">
-    <title><![CDATA[She Facilitates]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
-  </image>
-  <image imageURL="images/She Waits.jpeg"
-	thumbURL="thumbs/She Waits.jpeg"
-	linkURL="images/She Waits.jpeg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/She Waits.jpeg">
-    <title><![CDATA[She Waits]]></title>
-    <caption><![CDATA[70 cm x 105 cm, Oil on linen]]></caption>
   </image>
 </juiceboxgallery>
