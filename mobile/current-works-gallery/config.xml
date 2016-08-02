@@ -8,6 +8,14 @@
 	resizeOnImport="false"
 
 >
+  <image imageURL="images/All That Glitters Is Not Gold.jpeg"
+	thumbURL="thumbs/All That Glitters Is Not Gold.jpeg"
+	linkURL="images/All That Glitters Is Not Gold.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/All That Glitters Is Not Gold.jpeg">
+    <title><![CDATA[All That Glitters Is Not Gold]]></title>
+    <caption><![CDATA[74cm x 105cm, Oil on linen]]></caption>
+  </image>
   <image imageURL="images/The Other Side.jpeg"
 	thumbURL="thumbs/The Other Side.jpeg"
 	linkURL="images/The Other Side.jpeg"
@@ -20,7 +28,7 @@
 	thumbURL="thumbs/Shadow Core.jpeg"
 	linkURL="images/Shadow Core.jpeg"
 	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/Shadow Core.jpeg">
+	sourcePath="/Users/Jack/GitHub/JANETMAZENIER/mobile/current-works-gallery/images/Shadow Core.jpeg">
     <title><![CDATA[Shadow Core]]></title>
     <caption><![CDATA[80.5cm x 120cm, Oil on linen]]></caption>
   </image>
