@@ -8,6 +8,46 @@
 	resizeOnImport="false"
 
 >
+  <image imageURL="images/How Much Do We Believe.jpeg"
+	thumbURL="thumbs/How Much Do We Believe.jpeg"
+	linkURL="images/How Much Do We Believe.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/How Much Do We Believe.jpeg">
+    <title><![CDATA[How Much Do We Believe]]></title>
+    <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
+  </image>
+  <image imageURL="images/Look Deep.jpeg"
+	thumbURL="thumbs/Look Deep.jpeg"
+	linkURL="images/Look Deep.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/Look Deep.jpeg">
+    <title><![CDATA[Look Deep]]></title>
+    <caption><![CDATA[80.5cm x 120cm, Oil on linen]]></caption>
+  </image>
+  <image imageURL="images/Look Through.jpeg"
+	thumbURL="thumbs/Look Through.jpeg"
+	linkURL="images/Look Through.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/Look Through.jpeg">
+    <title><![CDATA[Look Through]]></title>
+    <caption><![CDATA[1200 cm x 1800 cm, Oil on linen]]></caption>
+  </image>
+  <image imageURL="images/The Bed.jpeg"
+	thumbURL="thumbs/The Bed.jpeg"
+	linkURL="images/The Bed.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/The Bed.jpeg">
+    <title><![CDATA[The Bed]]></title>
+    <caption><![CDATA[80.5cm x 120cm, Oil on linen]]></caption>
+  </image>
+  <image imageURL="images/The Chair.jpeg"
+	thumbURL="thumbs/The Chair.jpeg"
+	linkURL="images/The Chair.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Janet Current/The Chair.jpeg">
+    <title><![CDATA[The Chair]]></title>
+    <caption><![CDATA[80.5cm x 120cm, Oil on linen]]></caption>
+  </image>
   <image imageURL="images/All That Glitters Is Not Gold.jpeg"
 	thumbURL="thumbs/All That Glitters Is Not Gold.jpeg"
 	linkURL="images/All That Glitters Is Not Gold.jpeg"
