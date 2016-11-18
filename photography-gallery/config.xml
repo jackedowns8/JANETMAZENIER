@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(34,34,34,0)"
+	galleryWidth="90%"
+	galleryHeight="60%"
+	resizeOnImport="false"
+
+>
+  <image imageURL="images/Boat.jpg"
+	thumbURL="thumbs/Boat.jpg"
+	linkURL="images/Boat.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Boat.jpg">
+    <title><![CDATA[Boat]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bridge.jpg"
+	thumbURL="thumbs/Bridge.jpg"
+	linkURL="images/Bridge.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Bridge.jpg">
+    <title><![CDATA[Bridge]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Gantry Fade.jpg"
+	thumbURL="thumbs/Gantry Fade.jpg"
+	linkURL="images/Gantry Fade.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Gantry Fade.jpg">
+    <title><![CDATA[Gantry Fade]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Gantry.jpg"
+	thumbURL="thumbs/Gantry.jpg"
+	linkURL="images/Gantry.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Gantry.jpg">
+    <title><![CDATA[Gantry]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ground Zero Process.jpg"
+	thumbURL="thumbs/Ground Zero Process.jpg"
+	linkURL="images/Ground Zero Process.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Ground Zero Process.jpg">
+    <title><![CDATA[Ground Zero Process]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Library Fade.jpg"
+	thumbURL="thumbs/Library Fade.jpg"
+	linkURL="images/Library Fade.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Library Fade.jpg">
+    <title><![CDATA[Library Fade]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Motorway Transfer.jpg"
+	thumbURL="thumbs/Motorway Transfer.jpg"
+	linkURL="images/Motorway Transfer.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Motorway Transfer.jpg">
+    <title><![CDATA[Motorway Transfer]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/NY4 2.jpg"
+	thumbURL="thumbs/NY4 2.jpg"
+	linkURL="images/NY4 2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/NY4 2.jpg">
+    <title><![CDATA[NY4 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/NY4 3.jpg"
+	thumbURL="thumbs/NY4 3.jpg"
+	linkURL="images/NY4 3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/NY4 3.jpg">
+    <title><![CDATA[NY4 3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Pipes.jpg"
+	thumbURL="thumbs/Pipes.jpg"
+	linkURL="images/Pipes.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Pipes.jpg">
+    <title><![CDATA[Pipes]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Stairs.jpg"
+	thumbURL="thumbs/Stairs.jpg"
+	linkURL="images/Stairs.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Stairs.jpg">
+    <title><![CDATA[Stairs]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Terminal.jpg"
+	thumbURL="thumbs/Terminal.jpg"
+	linkURL="images/Terminal.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Terminal.jpg">
+    <title><![CDATA[Terminal]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Times.jpg"
+	thumbURL="thumbs/Times.jpg"
+	linkURL="images/Times.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Times.jpg">
+    <title><![CDATA[Times]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Wgtn.jpg"
+	thumbURL="thumbs/Wgtn.jpg"
+	linkURL="images/Wgtn.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Wgtn.jpg">
+    <title><![CDATA[Wgtn]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Wharf.jpg"
+	thumbURL="thumbs/Wharf.jpg"
+	linkURL="images/Wharf.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Wharf.jpg">
+    <title><![CDATA[Wharf]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Winery.jpg"
+	thumbURL="thumbs/Winery.jpg"
+	linkURL="images/Winery.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Winery.jpg">
+    <title><![CDATA[Winery]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

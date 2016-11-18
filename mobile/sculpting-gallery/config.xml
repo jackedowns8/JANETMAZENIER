@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(34,34,34,0)"
+	galleryWidth="90%"
+	galleryHeight="60%"
+	resizeOnImport="false"
+
+>
+  <image imageURL="images/North Shore Times.jpeg"
+	thumbURL="thumbs/North Shore Times.jpeg"
+	linkURL="images/North Shore Times.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Sculpting/North Shore Times.jpeg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Stuff.co.nz.jpeg"
+	thumbURL="thumbs/Stuff.co.nz.jpeg"
+	linkURL="images/Stuff.co.nz.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Sculpting/Stuff.co.nz.jpeg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
