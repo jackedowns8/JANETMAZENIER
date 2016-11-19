@@ -29,14 +29,6 @@
 	linkURL="images/Gantry Fade.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Gantry Fade.jpg">
-    <title><![CDATA[Gantry Fade]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/Gantry.jpg"
-	thumbURL="thumbs/Gantry.jpg"
-	linkURL="images/Gantry.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Gantry.jpg">
     <title><![CDATA[Gantry]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -45,7 +37,7 @@
 	linkURL="images/Ground Zero Process.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Ground Zero Process.jpg">
-    <title><![CDATA[Ground Zero Process]]></title>
+    <title><![CDATA[Ground Zero]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Library Fade.jpg"
@@ -53,7 +45,7 @@
 	linkURL="images/Library Fade.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Library Fade.jpg">
-    <title><![CDATA[Library Fade]]></title>
+    <title><![CDATA[Library]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Motorway Transfer.jpg"
@@ -61,7 +53,7 @@
 	linkURL="images/Motorway Transfer.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/Motorway Transfer.jpg">
-    <title><![CDATA[Motorway Transfer]]></title>
+    <title><![CDATA[Motorway]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/NY4 2.jpg"
@@ -69,7 +61,7 @@
 	linkURL="images/NY4 2.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/NY4 2.jpg">
-    <title><![CDATA[NY4 2]]></title>
+    <title><![CDATA[Chelsea]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/NY4 3.jpg"
@@ -77,7 +69,7 @@
 	linkURL="images/NY4 3.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/Jack/Desktop/Work/Janet Mazenier/Photography/NY4 3.jpg">
-    <title><![CDATA[NY4 3]]></title>
+    <title><![CDATA[MOMA]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Pipes.jpg"
