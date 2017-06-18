@@ -192,4 +192,12 @@
     <title><![CDATA[Skyline]]></title>
     <caption><![CDATA[]]></caption>
   </image>
+  <image imageURL="images/Unknown.jpeg"
+	thumbURL="thumbs/Unknown.jpeg"
+	linkURL="images/Unknown.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Unknown.jpeg">
+    <title><![CDATA[Entropy]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
 </juiceboxgallery>
