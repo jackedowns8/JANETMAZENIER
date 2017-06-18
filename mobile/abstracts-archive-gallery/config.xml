@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	backgroundColor="rgba(34,34,34,0)"
+
+>
+  <image imageURL="images/Abstract6_17.jpg"
+	thumbURL="thumbs/Abstract6_17.jpg"
+	linkURL="images/Abstract6_17.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract6_17.jpg">
+    <title><![CDATA[Abstract6_17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract6_14.jpg"
+	thumbURL="thumbs/Abstract6_14.jpg"
+	linkURL="images/Abstract6_14.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract6_14.jpg">
+    <title><![CDATA[Abstract6_14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract5_15.jpg"
+	thumbURL="thumbs/Abstract5_15.jpg"
+	linkURL="images/Abstract5_15.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract5_15.JPG">
+    <title><![CDATA[Abstract5_15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract5_14.jpg"
+	thumbURL="thumbs/Abstract5_14.jpg"
+	linkURL="images/Abstract5_14.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract5_14.jpg">
+    <title><![CDATA[Abstract5_14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract4_15.jpg"
+	thumbURL="thumbs/Abstract4_15.jpg"
+	linkURL="images/Abstract4_15.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract4_15.jpg">
+    <title><![CDATA[Abstract4_15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract4_14.jpg"
+	thumbURL="thumbs/Abstract4_14.jpg"
+	linkURL="images/Abstract4_14.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract4_14.jpg">
+    <title><![CDATA[Abstract4_14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract3_15.jpg"
+	thumbURL="thumbs/Abstract3_15.jpg"
+	linkURL="images/Abstract3_15.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract3_15.jpg">
+    <title><![CDATA[Abstract3_15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract3_14.jpg"
+	thumbURL="thumbs/Abstract3_14.jpg"
+	linkURL="images/Abstract3_14.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract3_14.jpg">
+    <title><![CDATA[Abstract3_14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract2_15.jpg"
+	thumbURL="thumbs/Abstract2_15.jpg"
+	linkURL="images/Abstract2_15.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract2_15.JPG">
+    <title><![CDATA[Abstract2_15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract2_14.jpg"
+	thumbURL="thumbs/Abstract2_14.jpg"
+	linkURL="images/Abstract2_14.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract2_14.jpg">
+    <title><![CDATA[Abstract2_14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract2_13.jpg"
+	thumbURL="thumbs/Abstract2_13.jpg"
+	linkURL="images/Abstract2_13.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract2_13.jpg">
+    <title><![CDATA[Abstract2_13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract1_15.jpg"
+	thumbURL="thumbs/Abstract1_15.jpg"
+	linkURL="images/Abstract1_15.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract1_15.JPG">
+    <title><![CDATA[Abstract1_15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract1_14.jpg"
+	thumbURL="thumbs/Abstract1_14.jpg"
+	linkURL="images/Abstract1_14.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract1_14.jpg">
+    <title><![CDATA[Abstract1_14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Abstract1_12.jpg"
+	thumbURL="thumbs/Abstract1_12.jpg"
+	linkURL="images/Abstract1_12.jpg"
+	linkTarget="_blank"
+	sourcePath="/private/var/folders/s5/9knlrjsn4fv624hz7c40tht40000gn/T/com.microsoft.Outlook/Outlook Temp/Abstracts_archive/Abstract1_12.jpg">
+    <title><![CDATA[Abstract1_12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

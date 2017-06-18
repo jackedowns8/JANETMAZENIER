@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="Abstracts Current"
+	backgroundColor="rgba(34,34,34,0)"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+>
+  <image imageURL="images/Port.jpeg"
+	thumbURL="thumbs/Port.jpeg"
+	linkURL="images/Port.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet 2017/Port.jpeg">
+    <title><![CDATA[Port]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Skyline.jpeg"
+	thumbURL="thumbs/Skyline.jpeg"
+	linkURL="images/Skyline.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Jack/Desktop/Work/Janet 2017/Skyline.jpeg">
+    <title><![CDATA[Skyline]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
