@@ -19,16 +19,18 @@
 <div class="container">
   <div class="menu">
 		<div class="header">JANETMAZENIER</div>
-        	<div class="menuContent">
-              <a href="../index.html">About</a> </br>
-            	<a href="../2017-paintings-gallery/currentworks.html">Paintings</a> </br>
-            	<a href="../abstracts-current-gallery/abstracts-current.html">&nbsp &nbsp &nbsp Abstracts Current</a> </br>
-              <a href="../abstracts-archive-gallery/abstracts-archive.html">&nbsp &nbsp &nbsp Abstracts Archive</a> </br>
-              <a href="../realistic-archive-gallery/realistic-archive.html">&nbsp &nbsp &nbsp Realistic Archive</a> </br>
-            	<a href="../photography-gallery/photography.html">Photography</a> </br>
-            	<a href="../cv.html">CV</a> </br>
-            	<a href="../links.html">Contact and Links</a> </br>
-        	</div>
+    <div class="menuContent">
+        <a href="../index.html">Home</a> </br>
+        <a onClick="showPaintings();">Paintings</a> </br>
+        <div id="paintings" style="display: none;">
+          <a href="../abstracts-current-gallery/abstracts-current.html">&nbsp &nbsp &nbsp Abstracts Current</a> </br>
+          <a href="../abstracts-archive-gallery/abstracts-archive.html">&nbsp &nbsp &nbsp Abstracts Archive</a> </br>
+          <a href="../realistic-archive-gallery/realistic-archive.html">&nbsp &nbsp &nbsp Realistic Archive</a> </br>
+        </div>
+        <a href="../photography-gallery/photography.html">Photography</a> </br>
+        <a href="../cv.html">CV</a> </br>
+        <a href="../links.html">Contact and Links</a> </br>
+    </div>
 	</div>
 	<div class="content">
     	<h1>Abstracts Current</h1>
@@ -48,3 +50,13 @@
 </div>
 </body>
 </html>
+<script>
+  function showPaintings() {
+    if (document.getElementById("paintings").style.display == "none") {
+      document.getElementById("paintings").style.display = "inline";
+    }
+    else if (document.getElementById("paintings").style.display == "inline") {
+      document.getElementById("paintings").style.display = "none";
+    }
+  }
+</script>
