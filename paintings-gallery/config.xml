@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="true"
+	flickrUserName="janet.mazenier"
+	flickrTags="paintings"
+	galleryWidth="90%"
+	galleryHeight="80%"
+	backgroundColor="rgba(34,34,34,0)"
+	thumbFrameColor="rgba(255,255,255,0.1)"
+	showThumbsButton="false"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	indexPageName="index.html"/>
